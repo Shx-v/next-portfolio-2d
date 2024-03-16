@@ -2,7 +2,6 @@ import {
     Backend_skill,
     Frontend_skill,
   } from "@/constants";
-  import React from "react";
   import SkillDataProvider from "../sub/SkillDataProvider";
   import SkillText from "../sub/SkillText";
   
